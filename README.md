@@ -3,5 +3,5 @@ Chatroom
 - HTML
 - CSS
 - JavaScript
-- Node.js
+- Node.js / Express
 - Socket.io
